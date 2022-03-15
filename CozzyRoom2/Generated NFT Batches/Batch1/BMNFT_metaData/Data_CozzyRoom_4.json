@@ -1,0 +1,11 @@
+{
+ "name": "CozzyRoom_4",
+ "NFT_DNA": "3-2-6-3-3",
+ "NFT_Variants": {
+  "Cozy Covers": "Green Cozy Covers_3_30",
+  "Door Handle": "Silver Door Handle_2_30",
+  "PC Cases": "Gold PC Case_6_10",
+  "Tables": "Red Table_3_30",
+  "Walls": "Blue Wall_3_30"
+ }
+}
