@@ -1,0 +1,183 @@
+{
+ "NFTs_in_Batch": 10,
+ "hierarchy": {
+  "Cozy Covers": {
+   "Blue Cozy Covers_1_30": {
+    "name": "Blue Cozy Covers",
+    "number": "1",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Red Cozy Covers_2_30": {
+    "name": "Red Cozy Covers",
+    "number": "2",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Green Cozy Covers_3_30": {
+    "name": "Green Cozy Covers",
+    "number": "3",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Pink Cozy Covers_4_30": {
+    "name": "Pink Cozy Covers",
+    "number": "4",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Yellow Cozy Covers_5_30": {
+    "name": "Yellow Cozy Covers",
+    "number": "5",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Gold Cozy Covers_6_10": {
+    "name": "Gold Cozy Covers",
+    "number": "6",
+    "rarity": "10",
+    "color": "0"
+   }
+  },
+  "Door Handle": {
+   "Gold Door Handle_1_10": {
+    "name": "Gold Door Handle",
+    "number": "1",
+    "rarity": "10",
+    "color": "0"
+   },
+   "Silver Door Handle_2_30": {
+    "name": "Silver Door Handle",
+    "number": "2",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Bronze Door Handle_3_50": {
+    "name": "Bronze Door Handle",
+    "number": "3",
+    "rarity": "50",
+    "color": "0"
+   }
+  },
+  "PC Cases": {
+   "Blue PC Case_1_30": {
+    "name": "Blue PC Case",
+    "number": "1",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Green PC Case_2_30": {
+    "name": "Green PC Case",
+    "number": "2",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Yellow PC Case_3_30": {
+    "name": "Yellow PC Case",
+    "number": "3",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Pink PC Case_4_30": {
+    "name": "Pink PC Case",
+    "number": "4",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Red PC Case_5_30": {
+    "name": "Red PC Case",
+    "number": "5",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Gold PC Case_6_10": {
+    "name": "Gold PC Case",
+    "number": "6",
+    "rarity": "10",
+    "color": "0"
+   }
+  },
+  "Tables": {
+   "Silver Table_1_80": {
+    "name": "Silver Table",
+    "number": "1",
+    "rarity": "80",
+    "color": "0"
+   },
+   "Blue Table_2_30": {
+    "name": "Blue Table",
+    "number": "2",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Red Table_3_30": {
+    "name": "Red Table",
+    "number": "3",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Green Table_4_30": {
+    "name": "Green Table",
+    "number": "4",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Pink Table_5_30": {
+    "name": "Pink Table",
+    "number": "5",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Gold Table_6_10": {
+    "name": "Gold Table",
+    "number": "6",
+    "rarity": "10",
+    "color": "0"
+   }
+  },
+  "Walls": {
+   "Red Wall_1_30": {
+    "name": "Red Wall",
+    "number": "1",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Pink Wall_2_30": {
+    "name": "Pink Wall",
+    "number": "2",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Blue Wall_3_30": {
+    "name": "Blue Wall",
+    "number": "3",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Green Wall_4_30": {
+    "name": "Green Wall",
+    "number": "4",
+    "rarity": "30",
+    "color": "0"
+   },
+   "Orange Wall_5_30": {
+    "name": "Orange Wall",
+    "number": "5",
+    "rarity": "30",
+    "color": "0"
+   }
+  }
+ },
+ "BatchDNAList": [
+  "2-3-5-1-4",
+  "4-2-6-4-1",
+  "1-3-2-5-1",
+  "3-2-6-1-2",
+  "2-3-2-3-5",
+  "4-2-5-1-1",
+  "2-3-5-4-5",
+  "2-3-2-1-2",
+  "5-2-4-4-5",
+  "4-2-5-2-5"
+ ]
+}
